@@ -1,0 +1,75 @@
+-------------------------------
+Description of VUGC_pPXF_2017
+-------------------------------
+
+VCC:     VCC or VLSB name 
+
+TARGTYPE:   Target type based on photometry
+   -----
+   NUC:     Nucleus of dwarf elliptical (dE) galaxy or UDG
+   GCXL:    XD (extreme deconvolution) GCs R<2', g<23.5
+   GCXF:    XD GCs, R<2', 23.5<g<24.5
+   GCBL:    Broad selection GCs (not selected by XD), R<2', g<23.5
+   GCBF:    Broad selection GCs (not selected by XD), R<2', 23.5<g<24.5
+   GCXO:    XD GCs, R>2'
+   GCBO:    Broad selection GCs (not selected by XD), R>2'
+   VIR:     Stellar candidate in Virgo Overdensity stream (NGVS)
+   SGR:     Stellar candidate in Sagittarius stream (NGVS)
+   ALG:     Alignment star/stellar candidate (NGVS)
+   SER:     Serendipitous object in zspec file (automatically extracted)
+   -----
+
+GCSAT: Is the GC a satellite of one of the 3 UDGs or the 2 dEs observed in the VUGC project? Y/N/M (M goes for maybe: objects that based on position and velocity could be GC satellites but their probability of being a star is very high)
+
+HOST: name of the host dE in the case of that object being a GC satellite
+
+RA:         Right ascension in decimal degrees
+
+DEC:        Declination in decimal degrees
+
+VHEL:       Redshift in heliocentric reference frame
+            (ZOBS corrected for ABANDCOR and HELCOR)
+
+VERR:       Uncertainty in ZHEL (symmetric)
+
+VERR_pe:    Positive uncertainty of ZHEL
+
+VERR_ne:    Negative uncertainty of ZHEL
+
+ZCONF:      Confidence of redshift measurement
+   -----
+   1:       Redshift measured with pPXF based on absorption lines
+   0:       Zero relevant spectral information (do not use ZHEL)
+ 0.5:      Redshift measured with pPXF based on absorption lines. The
+ distribution of the MC simulations look ok but there are not
+ identifiable absorption lines. These velocities should be excluded
+ because they are not trustworthy.
+   -----
+   
+VOBS:       Observed/raw redshift (no correction applied)
+
+VOBS_pe:    Positive uncertainty of ZOBS
+
+VOBS_ne:    Negative uncertainty of ZOBS
+
+ABANDCOR:   Redshift correction to account for miscentering of object in slit (width)
+
+ABANDCOR_pe: Positive uncertainty of ABANDCOR
+
+ABANDCOR_ne: Negative uncertainty of ABANDCOR
+
+HELCOR:     Heliocentric redshift correction
+
+SN: signal-to-noise ratio in the area used by pPXF to calculate the radial velocity
+
+MASKNAME:   DEIMOS mask name
+
+SLITNUM:    Slit number on DEIMOS mask
+
+YLOW:       Lower bound in pixels of extraction window from FWHM of Gaussian fit
+            (used to extract 1D spectrum from 2D spectrum)
+
+YHIGH:      Upper bound in pixels of extraction window from FWHM of Gaussian fit
+            (used to extract 1D spectrum from 2D spectrum)
+
+SPEC1DNAME: 1D spectrum file name (FITS binary table)
