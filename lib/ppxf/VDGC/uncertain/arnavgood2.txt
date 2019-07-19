@@ -1,0 +1,11 @@
+spec1d.vdgc4B.020.gcN108.fits.pdf
+spec1d.vdgc2.050.gcN387.fits.pdf
+spec1d.vdgc2.052.gcN407.fits.pdf
+spec1d.vdgc4B.022.gcN124.fits.pdf
+spec1d.vdgc6.030.gcN171.fits.pdf
+spec1d.vdgc4B.027.gcN141.fits.pdf
+spec1d.vdgc2.055.gcN449.fits.pdf
+spec1d.vdgc3.038.gcN118.fits.pdf
+spec1d.vdgc5.035.gcN270.fits.pdf
+spec1d.vdgc3.042.sgr264.fits.pdf
+spec1d.vdgc6.044.serendip1.fits.pdf
