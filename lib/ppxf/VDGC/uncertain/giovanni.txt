@@ -37,3 +37,16 @@ spec1d.vdgc7.011.gcA15.fits.pdf
 spec1d.vdgc7.010.gcA13.fits.pdf
 spec1d.vdgc7.005.alg197.fits.pdf
 spec1d.vdgc7.004.alg180.fits.pdf
+spec1d.vdgc6.025.gcN164.fits.pdf
+spec1d.vdgc6.021.gcA45.fits.pdf
+spec1d.vdgc4B.014.gcA34.fits.pdf
+spec1d.vdgc6.018.gcA31.fits.pdf	
+spec1d.vdgc4B.010.gcA29.fits.pdf
+spec1d.vdgc4B.009.gcA25.fits.pdf
+spec1d.vdgc3.010.gcA9.fits.pdf
+spec1d.vdgc4B.007.gcA21.fits.pdf
+spec1d.vdgc6.064.mst520.fits.pdf
+spec1d.vdgc6.004.alg207.fits.pdf
+spec1d.vdgc6.003.alg161.fits.pdf
+spec1d.vdgc6.048.gcN230.fits.pdf
+spec1d.vdgc5.048.mst513.fits.pdf
