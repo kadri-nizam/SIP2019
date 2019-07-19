@@ -1,0 +1,12 @@
+spec1d.vdgc8.050.serendip1.fits.pdf
+spec1d.vdgc8.065.mst532.fits.pdf
+spec1d.vdgc7.039.gcN169.fits.pdf
+spec1d.vdgc1.039.gcN211.fits.pdf
+spec1d.vdgc1.032.gcN185.fits.pdf
+spec1d.vdgc7.041.gcN184.fits.pdf
+spec1d.vdgc4B.004.nuc5.fits.pdf
+spec1d.vdgc5.016.gcN58.fits.pdf
+spec1d.vdgc8.059.sgr452.fits.pdf
+spec1d.vdgc2.045.serendip1.fits.pdf
+spec1d.vdgc8.056.serendip1.fits.pdf
+spec1d.vdgc8.048.vir333.fits.pdf

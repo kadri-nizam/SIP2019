@@ -47,7 +47,7 @@ spec1d.vdgc8.040.gcN168.fits.pdf
 spec1d.vdgc8.038.gcN150.fits.pdf
 spec1d.vdgc8.036.gcN141.fits.pdf
 spec1d.vdgc8.035.gcN136.fits.pdf
-spec1d.vdgc8.034.gcN130.fits.pdf=1
+spec1d.vdgc8.034.gcN130.fits.pdf
 spec1d.vdgc8.033.gcN126.fits.pdf
 spec1d.vdgc8.030.gcN104.fits.pdf
 spec1d.vdgc8.022.gcA38.fits.pdf
