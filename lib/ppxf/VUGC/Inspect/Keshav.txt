@@ -1,0 +1,2 @@
+'spec1d.vugc1.009.GCXL011.fits.gz.pdf',
+ 'spec1d.vugc1.043.GCXO0353.fits.gz.pdf'

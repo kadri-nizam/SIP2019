@@ -1,0 +1,8 @@
+'spec1d.vugc1.006.GCXL007.fits.gz.pdf',
+ 'spec1d.vugc1.008.GCXL009.fits.gz.pdf',
+ 'spec1d.vugc1.010.GCXL012.fits.gz.pdf',
+ 'spec1d.vugc1.013.GCXL016.fits.gz.pdf',
+ 'spec1d.vugc1.024.GCXF017.fits.gz.pdf',
+ 'spec1d.vugc1.034.GCXO0018.fits.gz.pdf',
+ 'spec1d.vugc1.041.GCXO0332.fits.gz.pdf',
+ 'spec1d.vugc1.044.GCXO0504.fits.gz.pdf'
